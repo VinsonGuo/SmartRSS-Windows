@@ -7,6 +7,11 @@ This is the download repository for the Windows version of SmartRSS
 * [🤖 Download for Android](https://play.google.com/store/apps/details?id=com.vinsonguo.flutter_rss_reader)
 * [💻 Download for Linux](https://github.com/VinsonGuo/SmartRSS-Linux/releases)
 
+## Run
+
+1. unzip the 'Release.zip'
+2. open 'Release' folder, and then double click 'SmartRSS.exe'
+
 --------------
 
 In today's information-rich world, staying updated with your favorite blogs, news sites, and content creators can be overwhelming. That's why I'm excited to introduce **SmartRSS** - an AI-powered RSS reader that revolutionizes how you discover, organize, and consume content across all your devices.
