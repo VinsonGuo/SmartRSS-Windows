@@ -12,6 +12,19 @@ This is the download repository for the Windows version of SmartRSS
 1. unzip the 'Release.zip'
 2. open 'Release' folder, and then double click 'SmartRSS.exe'
 
+## Font issues
+
+If you experience text rendering issues with Chinese, Korean, or other languages, please follow these steps to fix them:
+
+### Font Fix Guide
+
+- Go to Settings.
+- Open Color & Style.
+- Click Font Settings in the top-left corner.
+- Select Set Custom Font.
+- Choose Noto Sans SC, Noto Sans TC, Noto Sans KR, or any other suitable font.
+- Enable Apply Font Globally.
+
 --------------
 
 In today's information-rich world, staying updated with your favorite blogs, news sites, and content creators can be overwhelming. That's why I'm excited to introduce **SmartRSS** - an AI-powered RSS reader that revolutionizes how you discover, organize, and consume content across all your devices.
