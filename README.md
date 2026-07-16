@@ -25,6 +25,16 @@ If you experience text rendering issues with Chinese, Korean, or other languages
 - Choose Noto Sans SC, Noto Sans TC, Noto Sans KR, or any other suitable font.
 - Enable Apply Font Globally.
 
+## Screenshots
+
+![ScreenShot_2026-07-16_214954_022.png](screenshots/ScreenShot_2026-07-16_214954_022.png)
+![ScreenShot_2026-07-16_215044_164.png](screenshots/ScreenShot_2026-07-16_215044_164.png)
+![ScreenShot_2026-07-16_215059_867.png](screenshots/ScreenShot_2026-07-16_215059_867.png)
+![ScreenShot_2026-07-16_215203_905.png](screenshots/ScreenShot_2026-07-16_215203_905.png)
+![ScreenShot_2026-07-16_215216_771.png](screenshots/ScreenShot_2026-07-16_215216_771.png)
+![ScreenShot_2026-07-16_215232_766.png](screenshots/ScreenShot_2026-07-16_215232_766.png)
+![ScreenShot_2026-07-16_215245_005.png](screenshots/ScreenShot_2026-07-16_215245_005.png)
+
 --------------
 
 In today's information-rich world, staying updated with your favorite blogs, news sites, and content creators can be overwhelming. That's why I'm excited to introduce **SmartRSS** - an AI-powered RSS reader that revolutionizes how you discover, organize, and consume content across all your devices.
