@@ -12,6 +12,10 @@ This is the download repository for the Windows version of SmartRSS
 1. unzip the 'Release.zip'
 2. open 'Release' folder, and then double click 'SmartRSS.exe'
 
+## Release RSS feed
+
+https://github.com/VinsonGuo/SmartRSS-Windows/releases.atom
+
 ## Font issues
 
 If you experience text rendering issues with Chinese, Korean, or other languages, please follow these steps to fix them:
